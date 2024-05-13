@@ -31,10 +31,25 @@ left: 200px;
     left: 200px;
 }
 .para{
-    margin-left: 600px;
+    margin-left: 650px;
+    top: 220px;
+    position: absolute;
    
 }
 .image{
     position: fixed;
     right: 20px;
 }
+/* .separation{
+    position: absolute;
+    bottom: 50px;
+
+} */
+/* .img1{
+position: absolute;
+left: 10px;
+}
+.img2{
+    position: absolute;
+    left: 200px;
+} */
